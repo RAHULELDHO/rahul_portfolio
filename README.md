@@ -23,13 +23,13 @@ He needs to focus on s the region where the sales are declining so needs to enga
 
 ANALYSIS USING AIMS GRID
 
-AIMS grid is a project management tool and it has 4 components to it. The components of this grid are 
-	1. PURPOSE - To unlock  sales insights that are not visible before to the sales team  or decision support and automate them  to reduce manual time spent in data gathering.
-	2. STAKEHOLDERS -  Sales Director, Marketing Team, Customer Service Team, Data and Analytics Team, IT team
-	3. END RESULT -  An automated dashboard  providing quick  and latest sales insights in order to  support  data-driven decision making
-	4. SUCCESS CRITERIA - 
-	i. Dashboard uncovering sales order insights with the latest data available.
-	ii. Sales team is able to make better decisions and prove 10% cost savings of total spend
+AIMS grid is a project management tool and it has 4 components to it. The components of this grid are\n
+	1. PURPOSE - To unlock  sales insights that are not visible before to the sales team  or decision support and automate them  to reduce manual time spent in data gathering.\n
+	2. STAKEHOLDERS -  Sales Director, Marketing Team, Customer Service Team, Data and Analytics Team, IT team\n
+	3. END RESULT -  An automated dashboard  providing quick  and latest sales insights in order to  support  data-driven decision making\n
+	4. SUCCESS CRITERIA - \n
+	i. Dashboard uncovering sales order insights with the latest data available.\n
+	ii. Sales team is able to make better decisions and prove 10% cost savings of total spend\n
 	iii. Sales Analysts stop data gathering manually in order to save 20% of their business time and re-invest in value-added activity.
 
 USUAL BUSINESS SCENARIO FOR DATA ANALYSIS
