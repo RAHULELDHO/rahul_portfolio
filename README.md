@@ -72,6 +72,11 @@ POWERBI DASHBOARD FOR SALES INSIGHTS
 ![image](https://github.com/RAHULELDHO/rahul_portfolio/blob/main/images_sales_sinsights/Screenshot%202023-01-29%20180225.jpg)
 
 
+## 4. [Google Merchandise Analysis using Google Data Studio.](https://github.com/RAHULELDHO/rahul_portfolio/blob/main/Web_Analytics_Project.pdf)
+
+As part of web analytics project, we analysed google merchandise store analysis using google data studio. We also analysed Emlyon Business School Twitter page and analysed with their competitors page. 
+
+
 
 
 
