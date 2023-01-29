@@ -47,7 +47,7 @@ USUAL BUSINESS SCENARIO FOR DATA ANALYSIS
 
 The Sales data is stored in the MySQL database and is handled by the IT team. Also, we cannot do analytics directly in the database directly since the data volume is high   and we want to make sure that  MySQL database is not affected by the queries which we are using in analytics dashboards like PowerBI. So we have data warehouse where we take data from MySQL(OLTP-online transaction processing system). So we pull the data from OLTP and we perform ETL using  Informatica/Nifi and store it data warehouse like TERRA DATA. 
 
-![Image Alt Text](https://github.com/RAHULELDHO/rahul_portfolio/blob/main/images_sales_sinsights/Untitled%20picture.png)
+`![REAL_WORLD_SCENARIO](https://github.com/RAHULELDHO/rahul_portfolio/blob/main/images_sales_sinsights/Untitled%20picture.png)`
 
 PROCESS
 
