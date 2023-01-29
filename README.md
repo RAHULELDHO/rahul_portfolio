@@ -67,9 +67,11 @@ There is some anomaly in INR USD values so we are checking the  issue and resolv
 ![image](https://github.com/RAHULELDHO/rahul_portfolio/blob/main/images_sales_sinsights/Untitled%20picture5.png)
 ![image](https://github.com/RAHULELDHO/rahul_portfolio/blob/main/images_sales_sinsights/Untitled%20picture6.png)
 
-POWER BI DASHBOARD OF SALES INSIGHTS
+POWERBI DASHBOARD FOR SALES INSIGHTS
 
-<iframe width="800" height="600" src="https://github.com/RAHULELDHO/rahul_portfolio/blob/main/Salesinsights.pbix" frameborder="0" allowFullScreen="true"></iframe>
+![image](https://github.com/RAHULELDHO/rahul_portfolio/blob/main/images_sales_sinsights/Screenshot%202023-01-29%20180225.jpg)
+
+
 
 
 
