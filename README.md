@@ -1,4 +1,5 @@
-# rahul_portfolio
+# Rahul_Bijoy_Personal_Project_Portfolio
+## MSc Digital Marketing and Data Science Student, Emlyon Business School
 Analytics Portfolio
 ## 1. [Marketing Campaign Analysis](https://github.com/RAHULELDHO/rahul_portfolio/blob/main/Marketing%20CampaignAnalysis%20Rahul_Eldho_Bijoy.ipynb)
 This is our python bootcamp project regarding analysis of marketing campaign(. 
