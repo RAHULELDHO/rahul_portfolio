@@ -75,7 +75,13 @@ POWERBI DASHBOARD FOR SALES INSIGHTS
 
 ## 4. [Google Merchandise Analysis using Google Data Studio.](https://github.com/RAHULELDHO/rahul_portfolio/blob/main/Web_Analytics_Project.pdf)
 
-As part of web analytics project, we analysed google merchandise store analysis using google data studio. We also analysed Emlyon Business School Twitter page and analysed with their competitors page. 
+As part of web analytics project, I analysed google merchandise store analysis using google data studio. I also need to  analyse Emlyon Business School Twitter page and analysed with their competitors page. 
+
+## 5. [Zomato SQL Data Analysis Project](https://github.com/RAHULELDHO/rahul_portfolio/blob/main/ZOMATO.sql)
+
+In this project, data analysis of Zomato food delivery app using SQL. We are analysing the sales database of Zomato and found answers for each questions.
+
+
 
 
 
