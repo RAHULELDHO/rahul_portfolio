@@ -83,7 +83,8 @@ In this project, data analysis of Zomato food delivery app using SQL. We are ana
 
 ## 6. [Victoria Secrets Data Analysis](https://github.com/RAHULELDHO/rahul_portfolio/blob/main/VictoriaSecrets%20analysis.ipynb)
 
-In this python script, I tried to analyse the victoria secrets dataset by finding answers for each questions.
+In this python script, I tried to analyse the victoria secrets dataset by finding outputs to each questions using python, numpyu and pandas
+
 
 
 
