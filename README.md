@@ -89,6 +89,10 @@ In this python script, I tried to analyse the victoria secrets dataset by findin
 
 In this data viz challenge I need to clean and analyuse the airbnb dataset using powerBI. I created a data story by creating customer segments using number of rooms and type of rooms. Also I found the aprtments who have blank rating  and provided recommendations.
 
+## 8. [Looker Studio Dashboard for V+ bike sharing company](https://github.com/RAHULELDHO/rahul_portfolio/blob/main/V%2B_Marketing_dashboard.pdf)
+
+V+ is a bike sharing company that has launched early 2022. Their marketing team needs to gain customer insight and optimize their marketing budget. My team created a looker studi dashboard and redefine their strategy for the coming months.
+
 
 
 
