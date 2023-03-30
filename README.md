@@ -85,7 +85,7 @@ In this project, data analysis of Zomato food delivery app using SQL. We are ana
 
 In this python script, I tried to analyse the victoria secrets dataset by finding outputs to each questions using python, numpyu and pandas
 
-## 6. [Airbnb PowerBI data analysis](https://github.com/RAHULELDHO/rahul_portfolio/blob/main/airbnb%20-%20Final_one.pbix)
+## 7. [Airbnb PowerBI data analysis](https://github.com/RAHULELDHO/rahul_portfolio/blob/main/airbnb%20-%20Final_one.pbix)
 
 In this data viz challenge I need to clean and analyuse the airbnb dataset using powerBI. I created a data story by creating customer segments using number of rooms and type of rooms. Also I found the aprtments who have blank rating  and provided recommendations.
 
