@@ -90,6 +90,13 @@ In this data viz challenge I need to clean and analyuse the airbnb dataset using
 
 V+ is a bike sharing company that has launched early 2022. Their marketing team needs to gain customer insight and optimize their marketing budget. My team created a looker studio dashboard and redefine their strategy for the coming months.
 
+## 9. [R Cost of living Shiny app](https://github.com/RAHULELDHO/rahul_portfolio/blob/main/Rproject/cost_of_living.html)
+
+
+This is my R shiny app project   regarding a cost of living dashboard  for travellers and students which can be accessed through this link https://rahuleldho.shinyapps.io/Rfirstassignment_Rahul_Bijoy/
+
+The first process is to clean the data and keep the neccessary columns. After this I created UI and server code based on the dashboard design which I proposed.
+
 
 
 
