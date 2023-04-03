@@ -1,25 +1,22 @@
 # Rahul_Bijoy_Personal_Project_Portfolio
 ## MSc Digital Marketing and Data Science Student, Emlyon Business School
 Analytics Portfolio
+
 ## 1. [Marketing Campaign Analysis](https://github.com/RAHULELDHO/rahul_portfolio/blob/main/Marketing%20CampaignAnalysis%20Rahul_Eldho_Bijoy.ipynb)
-This is our python bootcamp project regarding analysis of marketing campaign(. 
-I cleaned the data and remove the missing values. I also removed the outliers to avoid getting wrong conslusion of analysis.
-I mentioned my findings  and analysis in the jupyter file
+
+This is our Python bootcamp project regarding the analysis of a marketing campaign. I cleaned the data and removed the missing values. I also removed the outliers to avoid reaching wrong conclusions in the analysis. I presented my findings and analysis in the Jupyter notebook.
 
 ## 2. [A/B Testing Project for E-commerce Website.](https://github.com/RAHULELDHO/rahul_portfolio/blob/main/AB_Testing_Project_Rahul%20Eldho%20Bijoy.ipynb)
-This is my personal project to understand A/B testing of marketing campaign.The dataset we are using here contains two data files about two marketing campaigns (Control Campaign and Test Campaign). I am able to work plotly library and used pandas to explore the dataset.
+
+This is my personal project to understand A/B testing of a marketing campaign. The dataset we are using here contains two data files about two marketing campaigns (Control Campaign and Test Campaign). I was able to work with the Plotly library and used pandas to explore the dataset.
 
 ## 3. [Atliq Sales insights Data analysis Project using PowerBI](https://github.com/RAHULELDHO/rahul_portfolio/blob/main/Salesinsights.pbix)
    
-   ABOUT THE COMPANY
-   Atliq Hardware is a company which supplies computer hardware and peripherals to many clients like Excel stores, Nomad Stores,  Surge Stores and  Electrical Sara Stores across India and they supply all these equipment to them.
-
-Atliq Hardware has a head office in New Delhi India and they have many regional offices across different states in India. Bhavan Patel is the sales director of this company
+Atliq Hardware is a company that supplies computer hardware and peripherals to many clients like Excel stores, Nomad Stores, Surge Stores, and Electrical Sara Stores across India, and they supply all these equipment to them. Atliq Hardware has a head office in New Delhi, India, and they have many regional offices across different states in India. Bhavan Patel is the sales director of this company.
 
 PROBLEM:
 
-The market is growing dynamically and Bhavan Patel is facing challenges in terms of sales in this dynamically growing market of this business. He has regional managers for North India, South India and Central India and they shared the insights through verbally. So Bhavan Patel is extremely frustrated with this since he could see sales are declining and he could not get the entire picture of the sales insights. He is not able to properly interpret the data through excel files shared by the regional managers.
-He needs to focus on s the region where the sales are declining so needs to engage with customers in a more better way.
+The market is growing dynamically, and Bhavan Patel is facing challenges in terms of sales in this dynamically growing market of this business. He has regional managers for North India, South India, and Central India, and they share insights verbally. Bhavan Patel is extremely frustrated with this since he can see that sales are declining, but he cannot get the entire picture of the sales insights. He is not able to properly interpret the data through Excel files shared by the regional managers. He needs to focus on the region where the sales are declining, so he needs to engage with customers in a better way.
 
 
 ANALYSIS USING AIMS GRID
@@ -91,7 +88,10 @@ In this data viz challenge I need to clean and analyuse the airbnb dataset using
 
 ## 8. [Looker Studio Dashboard for V+ bike sharing company](https://github.com/RAHULELDHO/rahul_portfolio/blob/main/V%2B_Marketing_dashboard.pdf)
 
-V+ is a bike sharing company that has launched early 2022. Their marketing team needs to gain customer insight and optimize their marketing budget. My team created a looker studi dashboard and redefine their strategy for the coming months.
+V+ is a bike sharing company that has launched early 2022. Their marketing team needs to gain customer insight and optimize their marketing budget. My team created a looker studio dashboard and redefine their strategy for the coming months.
+
+
+
 
 
 
