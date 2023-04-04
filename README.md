@@ -97,6 +97,10 @@ This is my R shiny app project   regarding a cost of living dashboard  for trave
 
 The first process is to clean the data and keep the neccessary columns. After this I created UI and server code based on the dashboard design which I proposed.
 
+##10. [IMDB movie BigQuery Data Analysis using SQL](https://github.com/RAHULELDHO/rahul_portfolio/blob/main/BIGQUERY%20SQL%20PROJECT.pdf)
+
+This is the course assignmnet where we need to find answers for the questions.
+
 
 
 
